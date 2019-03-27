@@ -1,6 +1,6 @@
 # Image-Augmentation
 
-Increasing the number of images in a data-set as desired. 
+Creating multiples of an image in a dataset as desired.
 
 
  
